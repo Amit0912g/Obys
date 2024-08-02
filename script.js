@@ -181,7 +181,7 @@ page2Animation();
 function SheryAnimation() {
   Shery.mouseFollower();
 
-  Shery.makeMagnet("#nav-part2 h4");
+  Shery.makeMagnet("#nav-part2 h4",{});
 
   Shery.imageEffect(".images", {
     style: 6,
